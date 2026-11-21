@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AAMISH-02-235241-039-Supermarket</string>
+    <string name="store_title">AAMISH-02-235241-039-Supermarket</string>
+    <string name="select_product_prompt">Select a product to calculate price:</string>
+    <string name="product_details">Product Details</string>
+    <string name="quantity_label">Enter Desired Quantity:</string>
+    <string name="calculate_button">Calculate Total Price</string>
+    <string name="error_negative_quantity">Quantity field must not be less than zero!</string>
+</resources>
